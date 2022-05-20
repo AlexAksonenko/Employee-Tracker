@@ -72,6 +72,7 @@ const viewAllRoles = () => {
 };
 
 // ADD A DEPARTMENT 
+const addDepartment = () => {
     inquirer
         .prompt(
             [{
@@ -96,7 +97,7 @@ const viewAllRoles = () => {
                 })
                 .catch(console.log);
         })
-
+    };
 
 // ADD A ROLE 
 const addRole = () => {

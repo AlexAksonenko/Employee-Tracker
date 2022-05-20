@@ -18,11 +18,11 @@ VALUES
 
 INSERT INTO employee(first_name, last_name, role_id, manager_id)
 VALUES
-('Andriy', 'Chook', 1, null),
-('Bogdan', 'Liashko', 2, 1),
-('Cugan', 'Melnik', 3, null),
-('Denis', 'Stupuk', 4, 3),
-('Egorko', 'Vanilkin', 5, null),
-('Fedir', 'Vusokiy', 6, 5),
-('Genadiy', 'Sokura', 7, null),
-('Horunguy', 'Vaflinsyi', 8, 7);
+('Andy', 'Chake', 1, null),
+('Yura', 'Pendos', 2, 1),
+('Lala', 'Maso', 3, null),
+('Rafik', 'Brinza', 4, 3),
+('Lulaki', 'Baba', 5, null),
+('Fatima', 'Jopen', 6, 5),
+('Gosha', 'Kucheraviy', 7, null),
+('Zmiy', 'Vovich', 8, 7);

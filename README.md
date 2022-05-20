@@ -8,7 +8,7 @@
 https://github.com/AlexAksonenko/Employee-Tracker
 
 # Walkthrough Video
-
+https://youtu.be/8hBqrmJ-vxg
 
 # Project type.
 SQL Challenge
